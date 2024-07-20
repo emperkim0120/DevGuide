@@ -1,11 +1,7 @@
 sample git guide
 test
 
-dfd
-dafdafadf
-
-kkkk
-
+ 
 
 
 
